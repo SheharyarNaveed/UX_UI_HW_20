@@ -1,0 +1,403 @@
+.Mainpage {
+    background-color: #FFDF38;
+    padding-bottom: 90px;
+}
+
+.Logo {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: avenir;
+}
+
+.Date {
+    text-align: right;
+    margin-right: 410px;
+    margin-top: 20px;
+    font-family: avenir;
+}
+
+.Cover {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: avenir;
+}
+
+#Theproblem {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+#Thesolution {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Onecontainer {
+    display: flex;
+}
+
+#Tools {
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+#Team {
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+#Role {
+        margin-top: 50px;
+        margin-left: 200px;
+        font-size: 16px;
+    }
+
+#Wwd {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.whatwedid {
+    margin-top: 30px;
+    width: 1000px;
+}
+
+.Background {
+    margin-top: 100px;
+}
+
+.Phase1 {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.goals {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.method {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.RQ {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.RQS {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.Insights {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+ol {
+    margin-top: 40px;
+}
+
+li {
+    margin: 20px;
+}
+
+.Survey {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Data {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.AD {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Affinitydiagram {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.UP {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Persona {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Phase2 {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.PS {
+    margin-top: 100px;
+}
+
+.Userinsights {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.CA {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.CompA {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Mind {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Mindmap {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.FP {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.FPM {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.VP {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.SB {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Storyboard {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Phase3 {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Prototype {
+    margin-top: 100px;
+}
+
+.UF {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.UFD {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.PS {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Paper {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.PtoD {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Papertod {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Lofi {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.lofi {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Phase4 {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Usertesting {
+    margin-top: 100px;
+}
+
+.Obj {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Ques {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.UTR {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.UTresults {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Lofiwireframes {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Lofiwi {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Final {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 16px;
+}
+
+.Mockpics {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.contact {
+    text-align: center;
+    line-height: 2;
+}
+
+.socials {
+    text-align: center;
+    line-height: 2;
+}
+
+#Text {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    color: black;
+    font-family: avenir;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.Firstdiv {
+    color: black;
+    height: 20px;
+    width: 800px;
+}
